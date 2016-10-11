@@ -15,4 +15,4 @@ script:
   - docker stop tested_image
 
 notifications:
-  webhooks: ''
+  webhooks: 'https://hooks.microbadger.com/images/ernestasposkus/alpackage/YeSB3Aqky9EcteHEpmFgJylhVfQ='
